@@ -1,4 +1,4 @@
-Hola! Este pograma es sobre una pagina web sobre un Museo Lo que se busca es dar una demo de como seria esta y su funcinamiento para sacar turnos de vistas guiadas,informacion del establecimiento y actividades. El funcionamiento es Intuitivo y fluido, tener en cuenta que es demo. Requisitos para el funcinamiento
+Hola! Este programa es sobre una pagina web sobre un Museo Lo que se busca es dar una demo de como seria esta y su funcinamiento para sacar turnos de vistas guiadas,informacion del establecimiento y actividades. El funcionamiento es Intuitivo y fluido, tener en cuenta que es demo. Requisitos para el funcinamiento
 
 Tener instalado XAMPP Los pasos para poder correr el programa seria:
 Buscar el directorio C:\xampp\htdocs y inserter ahi mismo la descompresion del archivo a descargar.
